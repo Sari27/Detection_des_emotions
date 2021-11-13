@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "985161662148",
+    "firebase_url": "https://testpolyface.firebaseio.com",
+    "project_id": "testpolyface",
+    "storage_bucket": "testpolyface.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985161662148:android:63babfd8b3cc2813",
+        "android_client_info": {
+          "package_name": "com.testpolyface"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985161662148-drtoug2j5de8plhnodgai2u0lgobo3m1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.testpolyface",
+            "certificate_hash": "8844dcfd9e2978c192806e7f8d50ad8d1ff4f7af"
+          }
+        },
+        {
+          "client_id": "985161662148-3sat25ebjpvqu2ma67aanl1d9gnv3gfu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeF00NF9_kxzVkhIovLkBZpQv6EKX1Nmg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985161662148-3sat25ebjpvqu2ma67aanl1d9gnv3gfu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
